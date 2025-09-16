@@ -1,6 +1,6 @@
 package jogodavelha;
 
-public class jogodaVelha {
+public class JogoDaVelha {
 
 	public static void main(String[] args) {
 		Linhas l = new Linhas();	
